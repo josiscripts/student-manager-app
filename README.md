@@ -184,7 +184,7 @@ Los datos se almacenan en:
 
 ## 👤 Autor
 
-Proyecto desarrollado como práctica de **Java Backend**.
+Proyecto desarrollado como práctica de **Java Backend** por **josiscripts**.
 
 ---
 
